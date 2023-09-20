@@ -9,3 +9,5 @@ print ("a"+"b")
 if a=5
 b=6
 print(a,b)
+
+if "a"+"b"=5 print:("5")
