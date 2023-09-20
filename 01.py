@@ -3,11 +3,9 @@ print("hello")
 if 10 > 2:
  print("five")
 
-def print(a,b):
-print ("a"+"b")
+define a=5
+define b=6
 
-if a=5
-b=6
-print(a,b)
+if "a"+"b"=5 
+print("5")
 
-if "a"+"b"=5 print:("5")
